@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm NAAS Solutions Limited.</h1>
 <h3 align="center">NAAS Solutions Limited is Bangladesh’s leading ICT company, specializing in innovative IT solutions since 2006. We’ve built a reputation for quality, efficiency, and honesty by partnering with world-class organizations and delivering results-driven services.</h3>
-
+<img align="center" alt="naas-solution" width="1000" src="https://github.com/NAAS-Solutions/NAAS-Solutions/blob/main/cover.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naas-solutions&label=Profile%20views&color=0e75b6&style=flat" alt="naas-solutions" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naas-solutions" alt="naas-solutions" /></a> </p>
